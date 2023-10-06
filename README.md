@@ -30,7 +30,7 @@ Testing the webserver
 # PROGRAM:
 Type your code here
 # OUTPUT:
-
+![solution](webserver1.png)
 # RESULT:
 
 The program is executed succesfully
