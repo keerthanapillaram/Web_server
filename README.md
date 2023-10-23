@@ -54,7 +54,7 @@ httpd = HTTPServer(server_address, HelloHandler)
 httpd.serve_forever()
 ```
 # OUTPUT:
-![solution](webserver.png)
+![solution](webserver1.png)
 
 
 # RESULT:
