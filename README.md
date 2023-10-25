@@ -55,7 +55,7 @@ httpd = HTTPServer(server_address, HelloHandler)
 httpd.serve_forever()
 ```
 # OUTPUT:
-![](images/webserver1.png)
+C:\Users\admin\Web_server-3\images\webserver1.png
 
 
 # RESULT:
